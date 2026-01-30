@@ -1,1 +1,0 @@
-## Full version (includes characters + Furnitures)

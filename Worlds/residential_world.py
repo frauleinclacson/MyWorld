@@ -1,0 +1,1 @@
+## The world where empty plots of land are for residences

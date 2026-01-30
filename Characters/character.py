@@ -1,0 +1,1 @@
+## Character class with their needs and stats
