@@ -13,4 +13,23 @@
     - Potty for urination dumping will also be present
     - There will also be a health monitor so becareful what you eat and dont over or under feed your character/s
  - Missions:
-    - 
+    Has 2 categories:
+      1. Daily Missions:
+         - These will be related on the health and satisfaction of the characters. 
+         - Players must keep their characters healthy and satisfiied in order to avoid them going to the hospital to get treated. 
+         - Checklist: 🏡(home and life)🏡
+         [] Wakeup after complete rest (8 hours minimum)
+         [] Cook and eat breakfast
+         [] Clean up the dishes
+         [] Clean up the trash
+         [] Take a shower
+         [] Do the laundry
+         [] Water plants (if have in the house)
+         [] Feed and give water to pet/s (if own any)
+         [] Pay bills 
+         - Checklist:👭🏻(Social)💃🏻🕺🏽
+         [] Talk to three other Mys
+         [] Invite a My over
+         [] Go out and eat with a My
+
+      2. 
