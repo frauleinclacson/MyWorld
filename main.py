@@ -29,5 +29,5 @@ def main():
 
     pygame.quit ()
     sys.exit ()
-if __name__ == "__My World Main__"
+if __name__ == "__main__":
     main()
