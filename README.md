@@ -50,7 +50,16 @@
          [] Foodie - Loves cooking and good meals (has the tendency to make better food with boosts for health and mood) (has the tendency to have a better career involving food)
          [] Music Lover - Happy when listening to music (Has a good career in music)
          [] Academic - Likes learning (can be from reading books or just studying) (Has the tendency to have a good career in Science courses)
-         [] Bookworm - 
+         [] Bookworm - Gains mood boost from reading
+         - Skill-Based Traits
+         [] Genius - Has fast logic skills (decisive)
+         [] Active - Loves fitness (will go on random walks and be less prone to sickness)
+         [] Perfectionist - Has higher quality work and creations
+         - Social Behavvior Traits
+         [] Self-Assured - Has a confident mood often and can do work or quests well
+         [] Bro ((Male My)/ Sis (Female My) - Bonds through exercises annd group activities
+         [] Snob - Loves shopping or spending (gets a mood and hhealth boost when they shop)
+         [] Loner - Social stat decays slower
  - Stats:🧘‍♀️🥗🍎🌱🔆
     - Hunger is monitored (will have levels by 5 i guess)
     - There are happy/fun levels as well
@@ -138,5 +147,53 @@
                - Romantic Mood Boost
                - Relationship XP
                - Sppecial Items
-            - 
-   - Mys have social relationships
+            - Christmas Season Missions (2nd week November till christmas)
+            [] Holiday cleaning 
+               - Clean entire house
+               - Throw away clutter
+            [] Decorating Mission
+               - Set up the christmas tree
+               - Hang stockings
+- Mys have social relationships:
+   1. Families can be built by two Mys coming together to be a couple, then getting married. 
+   2. Friendship is possible when Mys interact with one another often positively. 
+- Jobs: 
+   - Mys can apply for a job via:
+      1. Phones
+      2. Computers
+      3. Newspaper 
+   - Flow:
+      1. My searches for job via phone, coomputers, or newspaper
+      2. To qualify the job has basic qualifications that must be met
+      3. start rightaway
+   - Linking jobs to Building/Companies: 
+      - Building -> Company -> Job -> Employees
+      - Buildings Information:
+         1. My General Hospital:
+            - In the City_world 
+            - Jobs existing and position number:
+               - Intern
+                  - 2 for OBGYNE
+                  - 2 for Pedia
+                  - 2 for Surgery
+                  - 2 for Internal Medicine
+                  - 2 for Emergency Medicine 
+               - Nurse
+               - Doctor
+                  - Resident
+                  - Attending
+                  - Consultant
+               - Janitor 
+               - Pharmacist
+               - Cashier
+         2. My Grocery Store:
+            - In the City_world
+            - Jobs existing andposition number:
+               - Cashier
+               - Grocery Attendant 
+               - Grocery Manager
+               - Janitor
+               - Delivery Boy/Girl
+         3. My Vet Clinic
+            - In the City_World
+            - Jobs existing and position number: 
