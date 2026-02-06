@@ -173,27 +173,80 @@
             - In the City_world 
             - Jobs existing and position number:
                - Intern
-                  - 2 for OBGYNE
-                  - 2 for Pedia
-                  - 2 for Surgery
-                  - 2 for Internal Medicine
-                  - 2 for Emergency Medicine 
+                  - Rotates in all departments
+                  - 12 interns may be accepted in this hospital
                - Nurse
                - Doctor
                   - Resident
-                  - Attending
-                  - Consultant
-               - Janitor 
-               - Pharmacist
-               - Cashier
+                     - Interns must choose one specialty: 
+                        - 2 for OBGYNE
+                           - Prenatal checkups
+                           - Assist in childbirth
+                           - Prescribe medication
+                        - 2 for Pedia
+                           - Diagnose children (age 0-17 years old)
+                           - Comfort patients
+                           - Vaccinations
+                        - 2 for General Surgery
+                           - Assist in surgeries
+                           - Sterilize tools
+                           - Handles post-op care
+                        - 2 for General Medicine
+                           - Diagnose adult patients (18 years old to senior aged)
+                           - Manages chronnic illnesses
+                           - Prescribes medication
+                        - 2 for Emergency Medicine
+                           - Triage patients
+                           - Stabilize emergencies
+                           - Fast decision
+                        - 2 for Radiology
+                           - Read xrays and scans
+                           - Operate imaging machines
+                           - Write reports 
+                  - Attending (2-3 Mys who completed residency per department)
+                     - 2-3 years till promotion
+                  - Consultant (3-4 Mys who completed Attending phase per depatment)
+                     - retire at 70 years old
+               - Janitor (up to 5 Mys)
+               - Pharmacist (up to 8 Mys)
+               - Cashier (up to 6 Mys)
+               - Security Guard (up to 3 Mys)
          2. My Grocery Store:
             - In the City_world
-            - Jobs existing andposition number:
-               - Cashier
-               - Grocery Attendant 
-               - Grocery Manager
-               - Janitor
-               - Delivery Boy/Girl
+            - Jobs existing and position number:
+               - Cashier (Up to 8 Mys)
+               - Grocery Attendant (Up to 5 Mys)
+               - Grocery Manager (Up to 3 Mys)
+               - Janitor (Up to 4 Mys)
+               - Delivery Boy/Girl (Up to 4 Mys)
+               - Security Guard
          3. My Vet Clinic
             - In the City_World
             - Jobs existing and position number: 
+               - Janitor (Up to 5 Mys)
+               - Veterinary Doctor (Up to 10 Mys)
+               - Secretary (Up to 3 Mys)
+               - Nurse (Up to 6 Mys)
+               - Security Guard (Up to 3 Mys)
+         4. My Justice Center
+            - In the City_World 
+            - Jobs existing and position number:
+               - Janitor 
+               - Desk Secretary
+               - Legal Assistant
+               - Attorney 
+               - Cashier 
+               - Security Guard
+   - 💼🤝🏽Job Ladder:
+      - Medicine:
+         1. Doctor
+            Intern -> Resident -> Attending -> Consultant
+         2. Nurse -> Head Nurse
+      -  
+- 🌎World Features🗺️:
+   1. Residential World
+   2. City World
+   3. Central World
+   4. Education World
+   5. Nature World
+   6. Suburban World
