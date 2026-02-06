@@ -231,18 +231,71 @@
          4. My Justice Center
             - In the City_World 
             - Jobs existing and position number:
-               - Janitor 
-               - Desk Secretary
-               - Legal Assistant
-               - Attorney 
-               - Cashier 
-               - Security Guard
+               - Janitor (Up to 4 Mys)
+               - Desk Secretary (Up to 4 Mys)
+               - Legal Assistant (Up to 10 Mys)
+               - Attorney (Up to 15 Mys)
+               - Cashier (Up to 6 Mys)
+               - Security Guard (Up to 3 Mys)
+         5. My Regal Hotel 
+            - In the City_World 
+            - Jobs existing and position number:
+               - Hotel Desk Clerk (Up to 5 Mys)
+               - Janitor (Up to 8 Mys)
+               - Hotel Bellboy (Up to 10 Mys)
+               - Hotel cleaner (Up to 10 Mys)
+               - Waiter (Up to 10 Mys)
+               - Chef (Up to 6 Mys)
+               - Sous Chef (Up to 5 Mys)
+               - Kitchen Help (Up to 10 Mys)
+               - Pastry Chef (Up tp 5 Mys)
+               - Bar Tender (Up t0 4 Mys)
+               - Security Guard (Up to 4 Mys)
+         6. My Call Center
+            - In the City_World 
+            - Jobs existing and position number:
+               - Call Center Agent (Up to 30 Mys)
+               - Team Leader (Up to 10 Mys)
+               - General Manager (Up to 10 Mys)
+               - Accountant (Up to 10 Mys)
+               - Hr Personnel (Up to 10 Mys)
+               - Hr Manager (Up to 5 Mys)
+               - IT Support (Up to 5 Mys)
+               - IT General Manager (Up to 2 Mys)
+         7. My Job Hub
+            - In the City_World
+            - Jobs existing and position number:
+               - Hr Personnel (Up to 10 Mys) (help in finding jobs for Mys and do job postings)
+               - Secretary (Up to 10 Mys)
+               - Cashier (Up to 6 Mys)
+               - Janitor (Up to 4 Mys)
+               - Security Guard (3 Mys)
+         8. My City Park
+            - In the City__World
+            - Jobs existing and position number:
+               - Park Manager (Up to 2 Mys)
+               - Park Tender (Up to 3 Mys)
+         9. My Towers
+            - 
    - 💼🤝🏽Job Ladder:
       - Medicine:
          1. Doctor
             Intern -> Resident -> Attending -> Consultant
          2. Nurse -> Head Nurse
-      -  
+      -  Food:
+         1. Chef
+            Kicthen help -> Sous Chef -> Chef
+         2. Pastry Chef
+            Kitchen Help -> Pastry Chef 
+   - 💵Job Salaries: 
+      1. Janitor 
+         - Basic = $10/hour = 1 day of work (10 hours) = $100
+         - After 2 years = $15/hour = 1 day of work (1 hours) = $150
+      2. Security Guard 
+         - Basic = $10/hour = 1 day of work (10 hours) = $100
+         - After 2 years = $15/hour = 1 day of work (1 hours)
+      3. Cashier
+         - Basic = $12/hour = 1 day of work (8 hours) = $
 - 🌎World Features🗺️:
    1. Residential World
    2. City World
