@@ -271,12 +271,13 @@
                - Janitor (Up to 4 Mys)
                - Security Guard (3 Mys)
          8. My City Park
-            - In the City__World
+            - In the City_World
             - Jobs existing and position number:
                - Park Manager (Up to 2 Mys)
                - Park Tender (Up to 3 Mys)
          9. My Towers
-            - 
+            - In the City_World
+										- 
    - 💼🤝🏽Job Ladder:
       - Medicine:
          1. Doctor
